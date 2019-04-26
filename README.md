@@ -24,7 +24,7 @@ In this project, I was interestested in learning about traffic accidents in the 
 
 There is 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions, and markdown cells were used to assist in walking through the thought process for individual steps.  
 
-The "1-6m-accidents-traffic-flow-over-16-years" folder contains the data the notebook deals with, which is under the name: "accidents_2012_to_2014.csv".
+"accidents_2012_to_2014.csv" is the dataset I used for this project, but since the file is too big, it can not be uploaded to the repository. Please refer to link to the dataset in the *Licensing, Authors, Acknowledgements* section. 
 
 ## Results<a name="results"></a>
 
