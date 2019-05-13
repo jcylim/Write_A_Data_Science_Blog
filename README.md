@@ -28,7 +28,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@jonathan.cy.lim/how-safe-on-the-road-are-you-3526d9756?source=friends_link&sk=cd01e1fece50ad4e506577ccdcb1bcc8).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
